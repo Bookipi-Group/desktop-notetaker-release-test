@@ -8,7 +8,7 @@
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.4-6/bookipi-v0-1-4--6.dmg" length="32843896" type="application/octet-stream" sparkle:edSignature="CwY1SIQ9D3pVS4ZwEw+p2kHo1RjzyLtGOOm+ObmHbLWGOkGtqoIFhF7KwZhqh4MyjZ/Yv/8GZwqzOaRiNaJkDQ=="/>
+            <enclosure url="TODO:ADDURL" length="32843896" type="application/octet-stream" sparkle:edSignature="CwY1SIQ9D3pVS4ZwEw+p2kHo1RjzyLtGOOm+ObmHbLWGOkGtqoIFhF7KwZhqh4MyjZ/Yv/8GZwqzOaRiNaJkDQ=="/>
         </item>
     </channel>
 </rss>
