@@ -4,11 +4,11 @@
         <title>Bookipi AI Notetaker</title>
         <item>
             <title>0.1.4</title>
-            <pubDate>Wed, 24 Jun 2026 17:10:19 +0700</pubDate>
+            <pubDate>Thu, 25 Jun 2026 09:08:23 +0700</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="TODO:ADDURL" length="32843896" type="application/octet-stream" sparkle:edSignature="CwY1SIQ9D3pVS4ZwEw+p2kHo1RjzyLtGOOm+ObmHbLWGOkGtqoIFhF7KwZhqh4MyjZ/Yv/8GZwqzOaRiNaJkDQ=="/>
+            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.4-6/bookipi-v0-1-4--6.dmg" length="32843375" type="application/octet-stream" sparkle:edSignature="R3RnHqXVfCzS7nCxE5rNeZdyejlycKmYJcIpMUrAkFvoKtybjAaKN3aN0xIbGM61fCK4xcNqBztAHMNtj/gbCQ=="/>
         </item>
     </channel>
 </rss>
