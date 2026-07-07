@@ -3,6 +3,15 @@
     <channel>
         <title>Bookipi AI Notetaker</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Tue, 07 Jul 2026 12:50:09 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.5/bookipi-notetaker-0.1.5.dmg" length="27524468" type="application/octet-stream" sparkle:edSignature="XOHZlr5pHGW2P9lLl3mSb3ulNer1ERxAtnpdroSuRh7M+kFn4DRc+NfXIS01nMmtPdyimi1Yqb2g07y0mnyXBA=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Thu, 25 Jun 2026 09:08:23 +0700</pubDate>
             <sparkle:version>6</sparkle:version>
