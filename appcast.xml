@@ -9,15 +9,7 @@
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.5/bookipi-notetaker-0.1.5.dmg" length="27524468" type="application/octet-stream" sparkle:edSignature="XOHZlr5pHGW2P9lLl3mSb3ulNer1ERxAtnpdroSuRh7M+kFn4DRc+NfXIS01nMmtPdyimi1Yqb2g07y0mnyXBA=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Thu, 25 Jun 2026 09:08:23 +0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.4-6/bookipi-v0-1-4--6.dmg" length="32843375" type="application/octet-stream" sparkle:edSignature="R3RnHqXVfCzS7nCxE5rNeZdyejlycKmYJcIpMUrAkFvoKtybjAaKN3aN0xIbGM61fCK4xcNqBztAHMNtj/gbCQ=="/>
+            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.5-7/bookipi-notetaker-0.1.5.dmg" length="27524468" type="application/octet-stream" sparkle:edSignature="XOHZlr5pHGW2P9lLl3mSb3ulNer1ERxAtnpdroSuRh7M+kFn4DRc+NfXIS01nMmtPdyimi1Yqb2g07y0mnyXBA=="/>
         </item>
     </channel>
 </rss>
